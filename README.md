@@ -15,7 +15,7 @@ public class Rocco {
 
     String university = "UNINTER";
 
-    String linkedIn = "linkedin.com/in/roccocaco";
+    String linkedIn = "linkedin.com/in/roccoantenor";
 
 }
 
