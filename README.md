@@ -1,28 +1,19 @@
-import java.util.List;
-
 public class Rocco {
 
-    String pronouns = "he/him";
+    String role = "Software Engineering Student";
+    String focus = "Backend Development";
 
-    List<String> code = List.of(
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
-    );
+    String[] languages = {
+        "Java", "JavaScript", "HTML", "CSS"
+    };
 
-    List<String> tools = List.of(
-        "React",
-        "Bootstrap",
-        "Spring Boot"
-    );
+    String[] technologies = {
+        "Spring Boot", "React", "Bootstrap"
+    };
 
-    List<String> education = List.of(
-        "Software Engineering Undergraduate Student"
-    );
+    String university = "UNINTER";
 
-    String linkedIn = "https://www.linkedin.com/in/roccoantenor";
-    // Connect with me on LinkedIn
+    String linkedIn = "linkedin.com/in/roccocaco";
+
 }
 
