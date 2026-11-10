@@ -13,8 +13,6 @@ public class Rocco {
         "Spring Boot", "React", "Bootstrap"
     };
 
-    String university = "UNINTER";
-
     String linkedIn = "linkedin.com/in/roccoantenor";
 
 }
